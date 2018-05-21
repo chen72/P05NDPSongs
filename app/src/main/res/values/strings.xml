@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">P05-NDPSongs</string>
+    <string name="title">Song Title</string>
+    <string name="singers">Singers</string>
+    <string name="year">Year</string>
+    <string name="title_hint">Enter song title here</string>
+    <string name="singers_hint">Enter singers name here</string>
+    <string name="year_hint">Enter year of release here</string>
+    <string name="revision_note">Revision Note</string>
+
+
+
+    <string name="stars">Stars</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="show_list">Show List</string>
+    <string name="insert">Insert</string>
+    <string name="title_activity_main">MainActivity - Insert</string>
+    <string name="title_activity_second">SecondActivity - Select</string>
+</resources>
